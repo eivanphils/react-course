@@ -1,4 +1,4 @@
-import { getHeroesById } from "./bases/08-import-exports";
+import { getHeroesById } from "./08-import-exports";
 
 // const promesa = new Promise((resolve, reject) => {
 

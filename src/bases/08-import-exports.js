@@ -1,4 +1,4 @@
-import heroes, {owners, user} from './heroes';
+import heroes, {owners, user} from '../data/heroes';
 
 console.log(owners)
 console.log(user)
